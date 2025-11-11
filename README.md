@@ -5,14 +5,8 @@
 
 ## **Data Transmission Medium and Methods for Cyber Threat Defense**
 
-> **Google Slides Presentation:**
-> Islam, M. A. (2022-2025). *Data Transmission Medium and Methods for Cyber Threat Defense* [Google Slides](https://docs.google.com/presentation/d/1s9r5FhZTcpHJZlg9hu3Xsdx208VXPMyY/edit?usp=drive_link)
-
----
-
-
-## **References - Project Live Source (Google Slides):**
-[Data Transmission Medium and Methods for Cyber Threat Defense](https://docs.google.com/presentation/d/1s9r5FhZTcpHJZlg9hu3Xsdx208VXPMyY/edit?usp=drive_link&ouid=116326992624139892370&rtpof=true&sd=true)
+> **References - Google Slides Presentation:**
+> Islam, M. A. (2020-2025). *Data Transmission Medium and Methods for Cyber Threat Defense* [Google Slides](https://docs.google.com/presentation/d/1s9r5FhZTcpHJZlg9hu3Xsdx208VXPMyY/edit?usp=drive_link)
 
 ---
 
