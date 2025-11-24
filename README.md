@@ -57,7 +57,7 @@
 
 ---
 
-### **Copyright Notice**
+### **Copyright:**
 
 **© 2020–2025 Mohammad Aminul Islam. All Rights Reserved.**
 
