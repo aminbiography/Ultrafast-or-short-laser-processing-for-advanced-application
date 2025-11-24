@@ -6,7 +6,7 @@
 ## **Data Transmission Medium and Methods for Cyber Threat Defense** 
 
 ## Table of Contents
- - Live Project Source URL
+ - Live Project References URL
  - Preview Images
  - Copyright Notice
 
