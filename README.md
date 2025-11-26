@@ -10,7 +10,7 @@
  - Preview Images
  - Copyright Notice
 
-> **References - Google Slides Presentation (March 2022):**  
+> **References - Google Slides Presentation (February 2022):**  
 > Islam, M. A. (2020-2025). *Data Transmission Medium and Methods for Cyber Threat Defense* [Google Slides](https://docs.google.com/presentation/d/1s9r5FhZTcpHJZlg9hu3Xsdx208VXPMyY/edit?usp=drive_link)
 
 ---
