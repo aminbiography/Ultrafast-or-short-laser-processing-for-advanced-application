@@ -59,7 +59,7 @@
 
 ### **Copyright**
 
-**© 2020–2025 Mohammad Aminul Islam. All Rights Reserved.**
+**© 2020–2026 Mohammad Aminul Islam. All Rights Reserved.**
 
 This presentation titled **“Data Transmission Medium and Methods for Cyber Threat Defense”**, with reference to **“Ultrafast or Short Laser Processing for Advanced Application”**, and all associated content-including text, figures, explanations, diagrams, design elements, and research summaries-are the intellectual property of **Mohammad Aminul Islam**.
 
