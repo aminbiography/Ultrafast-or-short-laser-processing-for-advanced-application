@@ -3,7 +3,7 @@
     
 ---                      
     
-## **Data Transmission Medium and Methods for Cyber Threat Defense** 
+## **Data Communication Media & Protocols for Cyber Threat Defense** 
 
 ## Table of Contents
  - Live Project References URL
