@@ -71,26 +71,36 @@
 
 ### Main Thesis Domain
 
-This thesis explores the scientific principles and advanced applications of ultrafast (ultrashort-pulse) laser processing, with particular emphasis on optical data communication and fiber-optic transmission.
+This thesis explores the application of ultrafast (ultrashort-pulse) laser technology in advanced data communication, with particular emphasis on application-layer data processing, optical signal transmission, signal strength, and communication speed.
 
-The research focuses on the relationship between ultrashort laser pulses, electromagnetic principles, optical phenomena, and advanced communication technologies. It examines the potential of ultrafast laser technology to support improvements in optical signal transmission and explores relevant concepts in laser physics and fiber-optic communication.
+The research focuses on the relationship between data processing, optical signal characteristics, electromagnetic principles, and fiber-optic communication technologies. It examines how data is processed and transmitted through communication systems, how optical signal strength and transmission characteristics influence communication performance, and how ultrafast laser technology may contribute to advanced optical processing and communication applications.
 
 ### Key Research Areas
 
+- Application-layer data processing and communication
+- Data signal processing, encoding, and transmission
+- Optical signal strength, intensity, and power
+- Data transmission speed and communication performance
+- Signal quality, attenuation, and transmission efficiency
 - Ultrafast and ultrashort-pulse laser technology
 - Laser generation, amplification, and pulse compression
 - Electromagnetic principles and optical phenomena
 - Laser coherence, polarization, and intensity
 - Optical fiber communication and total internal reflection
 - Optical data transmission and communication systems
+- Signal propagation, bandwidth, and transmission efficiency
 - Geomagnetism and magnetic-field considerations in optical communication
 - Advanced applications of laser processing
 
 ### Research Focus
 
-The principal area of investigation is the potential application of ultrafast laser technology in optical data communication, particularly through fiber-optic transmission systems.
+The principal research focus is the processing and transmission of digital data through advanced optical communication systems. Particular attention is given to application-layer data processing, optical signal strength, transmission speed, and the factors that influence data communication performance.
 
-**Academic Context:** This repository documents an independently maintained academic thesis project associated with the Department of Physics, Jahangirnagar University. It is not an official university repository.
+The research also explores the potential role of ultrafast laser technology in improving optical processing and supporting high-speed fiber-optic communication. It considers the relationship between data handling, optical signal characteristics, transmission efficiency, and the performance of modern communication systems.
+
+### Academic Context
+
+This repository documents an independently maintained academic thesis project associated with the Department of Physics, Jahangirnagar University, Bangladesh. It is not an official university repository.
 
 ---
 
