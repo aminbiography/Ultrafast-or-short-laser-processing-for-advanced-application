@@ -57,6 +57,43 @@
 
 ---
 
+## Academic Research & Thesis Domain
+
+**Thesis Title:** Ultrafast or Short Laser Processing for Advanced Applications
+
+**Academic Institution:** Jahangirnagar University (JU), Bangladesh
+
+**Department:** Department of Physics
+
+**Academic Program:** MSc in Applied Physics and Electronics (Weekend Program)
+
+**Research Supervisor:** Professor Dr. Md. Shafiqul Islam
+
+### Main Thesis Domain
+
+This thesis explores the scientific principles and advanced applications of ultrafast (ultrashort-pulse) laser processing, with particular emphasis on optical data communication and fiber-optic transmission.
+
+The research focuses on the relationship between ultrashort laser pulses, electromagnetic principles, optical phenomena, and advanced communication technologies. It examines the potential of ultrafast laser technology to support improvements in optical signal transmission and explores relevant concepts in laser physics and fiber-optic communication.
+
+### Key Research Areas
+
+- Ultrafast and ultrashort-pulse laser technology
+- Laser generation, amplification, and pulse compression
+- Electromagnetic principles and optical phenomena
+- Laser coherence, polarization, and intensity
+- Optical fiber communication and total internal reflection
+- Optical data transmission and communication systems
+- Geomagnetism and magnetic-field considerations in optical communication
+- Advanced applications of laser processing
+
+### Research Focus
+
+The principal area of investigation is the potential application of ultrafast laser technology in optical data communication, particularly through fiber-optic transmission systems.
+
+**Academic Context:** This repository documents an independently maintained academic thesis project associated with the Department of Physics, Jahangirnagar University. It is not an official university repository.
+
+---
+
 ### **Copyright**
 
 **© 2020–2026 Mohammad Aminul Islam. All Rights Reserved.**
