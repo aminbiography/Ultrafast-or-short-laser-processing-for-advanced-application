@@ -124,3 +124,7 @@ in any form or by any means (electronic, mechanical, photocopying, recording, or
 Unauthorized use of this presentation or any portion thereof is strictly prohibited.
 
 ---
+
+#UltrafastLaserProcessing #SignalProcessing #ApplicationLayer #ApplicationLayerSecurity #ShortPulseLaser #UltrashortPulseLaser #LaserTechnology #LaserApplications #Photonics #AppliedPhysics #OpticalEngineering #MaterialsScience #OpticalCommunication #OpticalFiber #FiberOptics #OpticalDataCommunication #DigitalSignalProcessing #SignalStrength #SignalAnalysis #SignalDetection #SignalTransmission #SignalReception #SignalQuality #SignalIntegrity #SignalAttenuation #SignalAmplification #SignalModulation #SignalDemodulation #OpticalSignalProcessing #CommunicationSystems #DataTransmission #Telecommunication #WirelessCommunication #NetworkCommunication  #ApplicationLayerProtocols #NetworkLayer #TransportLayer #SessionLayer #PresentationLayer #OSIModel #TCPIP #NetworkProtocols #NetworkSecurity #CyberSecurity #InformationSecurity #DataSecurity #ApplicationSecurity #SecureCommunication #NetworkProtection #DataEncryption #Cryptography #Authentication #AccessControl #SecureDataTransmission #ThreatDetection #IntrusionDetection #CommunicationSecurity #InternetSecurity #DigitalCommunication #CommunicationEngineering #ElectronicsAndCommunication #LaserResearch #ScientificResearch #ResearchProject #ThesisResearch #JahangirnagarUniversity #MohammadAminulIslam
+
+---
